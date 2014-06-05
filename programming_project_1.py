@@ -1,3 +1,4 @@
+# getting user input on two integers from user
 def take_user_input(num):
     input_value = raw_input("Please enter the " + num + " integer: ")
 
